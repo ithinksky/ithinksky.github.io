@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.ithinksky.com/2021/01/12/%E3%80%90%E8%A7%A3%E8%AF%BBjdk%E3%80%91%E4%B9%8B001-objects%E7%B1%BB/</loc>
-    <lastmod>2021-01-12</lastmod>
+    <lastmod>2021-06-17</lastmod>
+  </url>  <url>
+    <loc>https://blog.ithinksky.com/2019/12/10/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E4%B9%8B001-centos7-%E6%9C%80%E5%B0%8F%E5%8C%96%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2021-06-17</lastmod>
   </url>  <url>
     <loc>https://blog.ithinksky.com/2020/12/17/%E3%80%90%E6%88%8F%E8%AF%B4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%91%E4%B9%8B001%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2020-12-17</lastmod>
@@ -16,25 +19,22 @@
     <loc>https://blog.ithinksky.com/2020/06/18/%E3%80%90%E9%87%8D%E6%B8%A9%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E4%B9%8B005%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2020-11-14</lastmod>
   </url>  <url>
-    <loc>https://blog.ithinksky.com/2020/06/10/%E3%80%90%E9%87%8D%E6%B8%A9%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E4%B9%8B003%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2020-11-14</lastmod>
-  </url>  <url>
     <loc>https://blog.ithinksky.com/2020/06/17/%E3%80%90%E9%87%8D%E6%B8%A9%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E4%B9%8B004%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2020-11-14</lastmod>
   </url>  <url>
-    <loc>https://blog.ithinksky.com/2020/06/03/%E3%80%90%E9%87%8D%E6%B8%A9%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E4%B9%8B002%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://blog.ithinksky.com/2020/06/10/%E3%80%90%E9%87%8D%E6%B8%A9%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E4%B9%8B003%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2020-11-14</lastmod>
   </url>  <url>
     <loc>https://blog.ithinksky.com/2020/06/01/%E3%80%90%E9%87%8D%E6%B8%A9%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E4%B9%8B001%E6%A6%82%E8%BF%B0/</loc>
     <lastmod>2020-11-14</lastmod>
   </url>  <url>
-    <loc>https://blog.ithinksky.com/2019/12/11/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E4%B9%8B002-mac%E4%B8%8B%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2020-11-14</lastmod>
-  </url>  <url>
-    <loc>https://blog.ithinksky.com/2019/12/10/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E4%B9%8B001-centos7-%E6%9C%80%E5%B0%8F%E5%8C%96%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://blog.ithinksky.com/2020/06/03/%E3%80%90%E9%87%8D%E6%B8%A9%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E4%B9%8B002%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2020-11-14</lastmod>
   </url>  <url>
     <loc>https://blog.ithinksky.com/2019/12/12/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E4%B9%8B003-windows%E4%B8%8B%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2020-11-14</lastmod>
+  </url>  <url>
+    <loc>https://blog.ithinksky.com/2019/12/11/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E4%B9%8B002-mac%E4%B8%8B%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2020-11-14</lastmod>
   </url>
 </urlset>
